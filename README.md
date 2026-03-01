@@ -29,7 +29,7 @@ Installation Instructions
 
 Clone the repository:
 
-git clone https://github.com/your-username/food-recipe-app.git
+git clone https://github.com/hhajihosseini/food-recipe-app.git
 cd food-recipe-app
 
 #Install dependencies:
