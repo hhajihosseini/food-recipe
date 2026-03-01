@@ -1,0 +1,49 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "viggie salad",
+      "ingredients": [
+        "lettuce",
+        "tomato",
+        "cucumber"
+      ],
+      "method": "Chop all the vegetables and mix them together in a bowl. Add your favorite dressing and enjoy!",
+      "cookingTime": 15
+    },
+    {
+      "id": "2",
+      "title": "chicken curry",
+      "ingredients": [
+        "chicken",
+        "onion",
+        "garlic",
+        "curry powder",
+        "coconut milk"
+      ],
+      "method": "Sauté the onion and garlic until fragrant. Add the chicken and cook until browned. Stir in the curry powder, then add the coconut milk. Simmer until the chicken is cooked through and the sauce has thickened.",
+      "cookingTime": 30
+    },
+    {
+      "id": "3",
+      "title": "pasta carbonara",
+      "ingredients": [
+        "spaghetti",
+        "eggs",
+        "parmesan cheese",
+        "bacon"
+      ],
+      "method": "Cook the spaghetti according to package instructions. In a separate pan, cook the bacon until crispy. In a bowl, whisk together the eggs and parmesan cheese. Drain the spaghetti and return it to the pot. Quickly stir in the egg mixture and bacon, allowing the heat from the pasta to cook the eggs and create a creamy sauce.",
+      "cookingTime": 20
+    },
+    {
+      "id": "2b0c",
+      "title": "Test",
+      "ingredients": [
+        "Test"
+      ],
+      "method": "Test",
+      "cookingTime": "20 minutes"
+    }
+  ]
+}

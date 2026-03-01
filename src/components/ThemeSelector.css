@@ -1,0 +1,39 @@
+
+/* Styling for the theme selector container */
+.theme-selector {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  height: 60px; /* Adjust the height to suit your design */
+  padding: 10px; /* Add padding to give some space */
+}
+
+/* Styling for the theme buttons container */
+.theme-buttons {
+  display: flex;
+  align-items: center; /* Vertically center the color buttons */
+}
+
+/* Styling for each color circle */
+.theme-buttons div {
+  width: 30px;  /* Increase size of the circles */
+  height: 30px;
+  cursor: pointer;
+  margin-left: 15px; /* Adjust spacing between buttons */
+  border-radius: 50%; /* Make the buttons round */
+  border: 2px solid #fff; /* Optional: border around the color circles */
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); /* Optional: add some shadow for visibility */
+}
+
+.mode-toggle {
+  margin-right: auto;
+}
+
+.mode-toggle img{
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+}
+
